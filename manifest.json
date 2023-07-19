@@ -1,0 +1,13 @@
+{
+  "name": "figma-bundling-test",
+  "id": "1263554449655845299",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "ui": "dist/index.html"
+}
